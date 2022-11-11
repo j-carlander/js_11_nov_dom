@@ -2,4 +2,4 @@
 
 ## Övningar på DOM
 
-- [DOM bootcamp](exercises/exercise_sinus.md)
+- [DOM bootcamp](exercises/)
